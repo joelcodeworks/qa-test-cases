@@ -1,37 +1,37 @@
 ### ID: TC-003
 
-## Objective:
+## Objective
 Verify that applying a filter hides information that does not correspond to the selected criteria.
 
-## Preconditions:
+## Preconditions
 - The application is accessible.
 - The user is on the main page.
 - Filter controls are available.
 
-## Steps:
+## Steps
 1. Open the application.
 2. Navigate to the section containing the available filters.
 3. Select a filter for a league, team, or player.
 4. Apply the selected filter.
 5. Observe the displayed information.
 
-## Expected Result:
+## Expected Result
 Only information corresponding to the selected filter is displayed. Information that does not match the selected criteria should no longer be visible in the filtered view.
 
-## Actual Result:
+## Actual Result
 The selected filter was applied correctly. Only information corresponding to the selected league, team, or player was displayed, while unrelated information was hidden.
 
-## Status:
+## Status
 Pass
 
-## Priority:
+## Priority
 Low
 
-## Environment:
+## Environment
 macOS
 
-## Browser:
+## Browser
 Safari / Firefox
 
-## Notes:
+## Notes
 The test was executed using league, team, and player filters in both Safari and Firefox. The same expected behavior was observed in both browsers, with no unexpected behavior.
