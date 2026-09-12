@@ -1,10 +1,34 @@
 # qa-test-cases
-Proyecto de diseño y documentación de casos de prueba como parte de mi portafolio QA Junior.
+QA test case design and documentation project created as part of my Junior QA portfolio.
 
-Repositorio para casos de prueba
+## Project Description
+This repository contains functional test cases designed to verify application behavior and user-facing functionality.
 
-Este repositorio contiene casos de prueba diseñados para validar funcionalidades web como registro, login, validaciones de formulario y flujos de usuario.
+The test cases are structured to document test objectives, preconditions, test steps, expected results, actual results, status, priority, and execution environment.
 
-Incluye escenarios positivos y negativos, validación de campos, manejo de errores y pruebas exploratorias estructuradas.
+The cases are based on practical testing scenarios performed on a web application.
 
-Objetivo: demostrar capacidad de análisis, diseño estructurado de pruebas y documentación clara.
+## Contents
+- Functional test cases
+- Reusable test case template
+- Test execution results and observations
+- Cross-browser functional checks
+
+## Tools
+- GitHub
+- Notion
+- Safari
+- Firefox
+
+## Skills Demonstrated
+- Functional test case design
+- Test documentation
+- Definition of test objectives and preconditions
+- Clear documentation of test steps and expected results
+- Comparison of expected and actual results
+- Basic priority classification
+- Cross-browser testing
+- Organization of QA documentation
+
+## Learning Objective
+The objective of this repository is to demonstrate a practical foundation in functional testing and structured test case documentation as part of my preparation for Junior QA opportunities.
