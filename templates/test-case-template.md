@@ -7,7 +7,7 @@
 [Example: Login with valid credentials]
 
 ## Objective
-[What needs to be verifyed]
+[What needs to be verified]
 
 ## Preconditions
 [What must be ready before executing the test case]
